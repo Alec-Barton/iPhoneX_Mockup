@@ -1,7 +1,7 @@
-# iPhoneX_mockup_illustrator
+# iPhoneX Mockups
 
-- simple transparent vector images of iPhone X for making app mockups
-- available as .ai and .svg files
+- simple transparent vector and png images of iPhone X for making app mockups
+- available as .ai, .xd(.sketch), .svg and .png files
 
 # Preview
 
